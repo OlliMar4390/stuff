@@ -1,0 +1,4 @@
+pyclip
+pandas
+glob
+ast
