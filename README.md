@@ -9,14 +9,15 @@ This Jupyter Notebook lets you
 * create a LaTeX table
 * create an HTML table
 * sort values separated by an inner cell delimiter in a column, e.g.
+
 <table>
     <th>Column</th><th><div align=center>&rarr;</div></th><th>Column</th>
     <tr><td><div align=center>bla</div></td><td><div align=center>&rarr;</div></td><td><div align=center>bla</div></td></tr>
     <tr><td>blo, ble</td><td><div align=center>&rarr;</div></td><td>ble, blo</td></tr>
 </table>
+
 * Sort columns of a table individually
 * Sort 2-dimensional row-array based on unique values in one column, e.g.
-
 
 <table>
     <thead>
@@ -57,6 +58,7 @@ This Jupyter Notebook lets you
         </tr>
     </tbody>
 </table>
+
 * Count unique values
 * convert a MySQL dump to a CSV file
 * list TODOs from a LaTeX document
