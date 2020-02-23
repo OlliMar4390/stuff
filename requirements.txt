@@ -1,4 +1,4 @@
-pyclip
+pyperclip
 pandas
 glob
 ast
